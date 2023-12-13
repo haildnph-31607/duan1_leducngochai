@@ -1,0 +1,28 @@
+NGUYEN VAN A
+9704 0000 0000 0018
+03/07
+OTP
+
+
+test vnpay:
+
+Ngân hàng: NCB
+Số thẻ: 9704198526191432198
+Tên chủ thẻ:NGUYEN VAN A
+Ngày phát hành:07/15
+Mật khẩu OTP:123456
+
+http://localhost/duan1/index.php?act=
+thankVnpay&
+vnp_Amount=12250000&
+vnp_BankCode=NCB&
+vnp_BankTranNo=VNP14235118&
+vnp_CardType=ATM&
+vnp_OrderInfo=Thanh+To%C3%A1n+H%C3%B3a+%C4%90%C6%A1n.&
+vnp_PayDate=20231211153357&
+vnp_ResponseCode=00&
+vnp_TmnCode=5RWJ4H0U&
+vnp_TransactionNo=14235118&
+vnp_TransactionStatus=00&
+vnp_TxnRef=334195&
+vnp_SecureHash=63741413f892098343802015d51bb363fac5978a1b82be565e91419bca21526fdef0b7af945d8a91c918a0d25befd7bc29e05aab2645d7063ca2a4126200acc9
